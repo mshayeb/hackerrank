@@ -60,6 +60,7 @@ Machine Learning:
 
 * **Document Classification** [Problem](https://www.hackerrank.com/challenges/document-classification) : [Solution](https://github.com/mshayeb/hackerrank/blob/master/ML/DocumentClassification.py)
 * **Housing_Prices** [Problem](https://www.hackerrank.com/challenges/predicting-house-prices) : [Solution](https://github.com/mshayeb/hackerrank/blob/master/ML/housing_prices.py)
-
+* **Predicting Office Space Price** [Problem](https://www.hackerrank.com/challenges/predicting-office-space-price) : [Solution](https://github.com/mshayeb/hackerrank/blob/master/ML/predicting-office-space-price.py)
+* **Stack Exchange Question Classifier** [Problem](https://www.hackerrank.com/challenges/predicting-office-space-price) : [Solution](https://github.com/mshayeb/hackerrank/blob/master/ML/stack-exchange-question-classifier.py)
 
 
