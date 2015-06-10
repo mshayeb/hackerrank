@@ -1,6 +1,6 @@
 #https://www.hackerrank.com/challenges/saveprincess
 
-#!/usr/bin/python
+
 def displayPathtoPrincess(n, grid):
 
     #Find the bot
@@ -23,6 +23,7 @@ def displayPathtoPrincess(n, grid):
         print(ydir)
     for i in range(0, abs(px - bx)):
         print(xdir)
+
 
 #end displayPathToPrincess
 
