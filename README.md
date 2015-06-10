@@ -56,5 +56,10 @@ Combinatorics:
 
 * **Handshake** At the annual meeting of Board of Directors of Acme Inc, every one starts shaking hands with everyone else in the room. Given the fact that any two persons shake hand exactly once, Can you tell the total count of handshakes? [link](https://github.com/mshayeb/hackerrank/blob/master/Combinatorics/Handshake.py)
 
+Machine Learning:
+
+* **Document Classification** [Problem](https://www.hackerrank.com/challenges/document-classification) : [Solution](https://github.com/mshayeb/hackerrank/blob/master/ML/DocumentClassification.py)
+* **Housing_Prices** [Problem](https://www.hackerrank.com/challenges/predicting-house-prices) : [Solution](https://github.com/mshayeb/hackerrank/blob/master/ML/housing_prices.py)
+
 
 
